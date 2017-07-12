@@ -1,0 +1,37 @@
+public class YourName {
+	public static void main(String[] args) {
+
+		System.out.println("Hayley Anne");
+
+  }
+  
+  public class DataTypes {
+	public static void main(String[] args) {
+
+		System.out.println(10);
+
+	}
+}
+public class DataTypesB {
+	public static void main(String[] args) {
+
+		System.out.println(true);
+
+	}
+}
+public class DataTypesC {
+	public static void main(String[] args) {
+
+		System.out.println("*");
+
+	}
+}
+//OR
+public class DataTypesC {
+	public static void main(String[] args) {
+
+		System.out.println('_');
+
+	}
+}
+// the above code is used for javascript
